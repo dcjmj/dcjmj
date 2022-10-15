@@ -6,10 +6,6 @@
     <lastmod>2022-10-15T02:29:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2022-10-15T02:29:20+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication_types/</loc>
     <lastmod>2022-10-15T02:29:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/conference-paper/</loc>
+    <lastmod>2022-10-15T02:29:20+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/</loc>
     <lastmod>2022-10-15T02:29:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
