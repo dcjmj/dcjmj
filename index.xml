@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tao Huang&#39;s Personal Site</title>
+    <title>Tao Huang&#39;s Homepage</title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tao Huang&#39;s Personal Site</description>
+    <description>Tao Huang&#39;s Homepage</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Oct 2022 02:29:20 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf9b570c65876a6fe2c5667a79f19c531_69599_512x512_fill_lanczos_center_3.png</url>
-      <title>Tao Huang&#39;s Personal Site</title>
+      <title>Tao Huang&#39;s Homepage</title>
       <link>https://example.com/</link>
     </image>
     
